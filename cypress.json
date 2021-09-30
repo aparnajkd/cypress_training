@@ -1,0 +1,13 @@
+
+{
+    "requestTimeout": 500000, 
+    "numTestsKeptInMemory": 0, 
+    "responseTimeout": 500000,
+    "pageLoadTimeout": 500000, 
+    "baseUrl": "http://geekyants-login.geekydev.com/home", 
+    "chromeWebSecurity": false,
+    "watchForFileChanges": true, 
+    "viewportHeight": 1259, 
+    "viewportWidth": 1200 
+}
+
